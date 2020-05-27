@@ -1,0 +1,1 @@
+This is a learning project with the intention of learning react by doing a real world application
